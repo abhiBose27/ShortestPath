@@ -1,3 +1,6 @@
+# We were given a real life project which we call the Snow Problem. Details are the in the report.
+
+
 ## Real:
 The pratical part of the solution using osmnx, networkx, pandas and numpy, plotly
 
