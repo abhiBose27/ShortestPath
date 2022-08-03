@@ -1,0 +1,6 @@
+pandas~=1.4.3
+networkx~=2.8.4
+osmnx~=1.2.1
+numpy==1.23.0
+plotly~=5.9.0
+keyboard~=0.13.5
