@@ -1,4 +1,4 @@
-# We were given a real life project which we call the Snow Problem. Details are the in the report.
+## Snow problem: Find the cost effective path to clear the snow in the city of Montreal, Canada.
 
 
 ## Real:
